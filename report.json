@@ -1,0 +1,27 @@
+{
+  "broken_mutation": "terminal award pays a second time",
+  "broken_mutation_detected": true,
+  "deterministic_seed": 606006,
+  "failures": [],
+  "foundry_available": false,
+  "generated_sequences": 1000,
+  "implementation": "bounded Python stdlib synthetic state machine; Foundry/anvil unavailable on runner",
+  "limitations": [
+    "No Solidity compiler, Foundry, Anvil, RPC, wallet, credentials, or network was used.",
+    "The model is a bounded local behavioral approximation, not deployed-bytecode execution or a formal proof.",
+    "The oracle folds emitted receipts independently and does not import StateModel state or implementation logic."
+  ],
+  "python_version": "3.12.3",
+  "reconciled_ok": 1000,
+  "reconciliation_failures": 0,
+  "rejected_calls_total": 56158,
+  "requested_sequences": 1000,
+  "schema": 1,
+  "seed_formula": "BASE_SEED + sequence_id",
+  "sequence_depth": 100,
+  "status": "PASS",
+  "trace_records": 1000,
+  "unit_test_count": 5,
+  "unit_tests_passed": true,
+  "unit_tests_returncode": 0
+}
