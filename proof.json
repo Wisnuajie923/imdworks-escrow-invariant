@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "bounty_uuid": "bb5bb8eb-14e4-4f07-b86e-565ab2c37972",
+  "escrow_id": 6,
+  "chain_id": 4663,
+  "repository": "https://github.com/Wisnuajie923/imdworks-escrow-invariant",
+  "repository_commit": "cbbbf49f59ec7d33f1d27db605ab97a57bd0782c",
+  "artifact_url": "https://codeload.github.com/Wisnuajie923/imdworks-escrow-invariant/tar.gz/cbbbf49f59ec7d33f1d27db605ab97a57bd0782c",
+  "artifact_sha256": "7c2f3f9e22b7425553c8e83460aa8fe4fdcefbf0299a08a729d0f9a6fd5d0c65",
+  "report_url": "https://raw.githubusercontent.com/Wisnuajie923/imdworks-escrow-invariant/cbbbf49f59ec7d33f1d27db605ab97a57bd0782c/report.json",
+  "report_sha256": "da6fc9a5ef8e418bc9e922f7013821d269f8a3f612f889502eccc63487f3a02b",
+  "acceptance": "Verified locally with pinned evidence; see README and report.",
+  "limitations": "Local synthetic harness; no claim of Foundry/Anvil or production execution where unavailable."
+}
