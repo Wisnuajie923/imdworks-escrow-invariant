@@ -1,0 +1,12 @@
+$ python3 -m unittest -v
+test_broken_mutation_is_detected (test_harness.HarnessTests.test_broken_mutation_is_detected) ... ok
+test_oracle_rejects_malformed_snapshot_monetary_values (test_harness.HarnessTests.test_oracle_rejects_malformed_snapshot_monetary_values) ... ok
+test_oracle_rejects_non_positive_or_non_integer_event_amounts (test_harness.HarnessTests.test_oracle_rejects_non_positive_or_non_integer_event_amounts) ... ok
+test_sequence_reconciles_independently (test_harness.HarnessTests.test_sequence_reconciles_independently) ... ok
+test_terminal_bounty_cannot_pay_twice (test_harness.HarnessTests.test_terminal_bounty_cannot_pay_twice) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+exit_code=0

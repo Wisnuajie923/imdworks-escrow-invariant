@@ -1,0 +1,9 @@
+test_broken_mutation_is_detected (test_harness.HarnessTests.test_broken_mutation_is_detected) ... ok
+test_sequence_reconciles_independently (test_harness.HarnessTests.test_sequence_reconciles_independently) ... ok
+test_terminal_bounty_cannot_pay_twice (test_harness.HarnessTests.test_terminal_bounty_cannot_pay_twice) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
+exit_code=0
